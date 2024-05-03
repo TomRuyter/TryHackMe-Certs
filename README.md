@@ -6,4 +6,5 @@ You can see my profile at: https://tryhackme.com/p/Tom.Ruyter
 
 ### Current Ranking
 
-![TryHAckME](https://github.com/TomRuyter/TryHackMe-Certs/assets/31480147/f4fdbca3-30d5-4722-bdb3-0a74519491e7)
+![TryHackMe](https://github.com/TomRuyter/TryHackMe-Certs/assets/31480147/243aa12d-25f7-4836-b561-5e04ffeee130)
+
