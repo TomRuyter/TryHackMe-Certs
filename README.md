@@ -4,6 +4,6 @@ Certificates I've earned through [TryHackMe](https://tryhackme.com) courses that
 
 You can see my profile at: https://tryhackme.com/p/Tom.Ruyter
 
-### Current Ranking
+### Best Ranking
 
-![TryHackMe](https://github.com/TomRuyter/TryHackMe-Certs/assets/31480147/e0d03ae3-60d6-493b-8670-95e4737115f7)
+![BestRanking](https://github.com/TomRuyter/TryHackMe-Certs/assets/31480147/7ead4855-f52b-4fff-ad82-c397f937dfda)
